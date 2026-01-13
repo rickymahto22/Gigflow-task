@@ -2,7 +2,7 @@
 
 GigFlow is a full-stack freelance marketplace platform where Clients can post gigs and Freelancers can bid on them. The application features secure authentication, fluid user roles, real-time notifications, and atomic database transactions for hiring integrity.
 
-![GigFlow Screenshot](https://via.placeholder.com/800x400?text=GigFlow+Preview) *Add your screenshot here*
+
 
 ## 🌟 Features
 
